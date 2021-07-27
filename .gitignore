@@ -129,10 +129,5 @@ dmypy.json
 .pyre/
 .idea
 
-data
-ckpt
-plots
-tensorboard
-out
 job-sympa.sh
 job_script.sh
